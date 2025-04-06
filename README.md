@@ -1,4 +1,4 @@
-#ASTRA – AI System for Ticket Routing & Assistance
+# ASTRA – AI System for Ticket Routing & Assistance
 
 This project presents a modular, AI-driven multi-agent customer support system designed to enhance the efficiency of support workflows. It simulates how an organization can automate issue analysis, ticket classification, routing, solution recommendation, and resolution time estimation using multiple intelligent agents working in sync.
 
