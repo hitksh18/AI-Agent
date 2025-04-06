@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Ollama model cache
+ollama/
+
+# VSCode
+.vscode/
+
+# FAISS index
+data/index.*
+data/*.faiss
+
+# System
+.DS_Store
+Thumbs.db
